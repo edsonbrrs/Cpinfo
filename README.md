@@ -8,8 +8,8 @@ Não consegui atender aos resquisitos:
 - Obrigatoriedade do CPF e do NOME;
 - Exclusão Lógica (update);
 
-Nota
-Infelizmente não consegui resolver todos os requisitos da aplicação, me faltou mais conhecimento e experiência em ASP.NET, mas continuarei estudando e treinando para poder sanar minhas atuais deficiências.
+Nota:
+Infelizmente, não consegui resolver todos os requisitos da aplicação. Me faltou mais conhecimento e experiência em ASP.NET, mas continuarei estudando e treinando para poder sanar minhas atuais deficiências.
 
 A tabela do BD do SqlServer está em um arquivo .sql;
 O cadastro não tem tratamento dos dados o que gera erros em algumas exceções;
