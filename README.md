@@ -13,3 +13,4 @@ Infelizmente não consegui resolver todos os requisitos da aplicação, me falto
 
 A tabela do BD do SqlServer está em um arquivo .sql;
 O cadastro não tem tratamento dos dados o que gera erros em algumas exceções;
+O Diagrama do caso está na pasta raiz.
